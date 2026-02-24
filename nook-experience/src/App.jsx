@@ -1,8 +1,16 @@
+import Hero from "./sections/Hero";
+import Gallery from "./sections/Gallery";
+import Beans from "./sections/Beans";
+import Footer from "./sections/Footer";
+
 function App(){
   return(
     <div>
-      <h1>The Nook at Shams</h1>
+      <Hero />
+      <Beans />
+      <Gallery />
+      <Footer />
     </div>
-  )
+  );
 }
 export default App
