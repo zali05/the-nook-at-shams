@@ -16,7 +16,7 @@ export default function Gallery() {
             className="text-center mb-16"
             >
                 <h2 className="text-4xl md:text-6xl font-semibold">Feel the vibe</h2>
-                <p className="mt-4  text-gray-400">A glimpse into the world of The Nook at Shams</p>
+                <p className="text-3xl mt-4 text-gray-300 max-w-7xl mx-auto">Our menu is simple and thoughtful: freshly toasted sandwiches, freshly baked cookies, and pastries sourced localy within Islamabad; all made to complement the coffee and the moment.</p>
             </motion.div>
 
             <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">

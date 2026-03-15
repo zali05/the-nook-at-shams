@@ -12,21 +12,21 @@ export default function Footer() {
                 className="text-center mb-20"
                 >
                     <h2 className="text-4xl md:text-6xl font-semibold">Visit Us</h2>
-                    <p className="mt-4 text-gray-400">Experience the warmth and aroma of The Nook at Shams</p>
+                    <p className="text-3xl mt-4 text-gray-200">Whether you're meeting a friend, working quietly, or just passing through, The Nook is a place to pause, relax, and enjoy a well-made cup of coffee.</p>
                 </motion.div>
 
                 <div className="grid md:grid-cols-3 gap-16 text-center">
                     <div>
-                        <h3 className="text-2xl font-semibold mb-4">Location</h3>
-                        <p className="text-gray-400">Address of store</p>
+                        <h3 className="text-3xl font-semibold mb-4">Location</h3>
+                        <p className="text-2xl text-gray-400">Address of store</p>
                     </div>
                     <div>
-                        <h3 className="text-2xl font-semibold mb-4">Hours</h3>
-                        <p className="text-gray-400">Mon-Fri: 8am - 8pm</p>
-                        <p className="text-gray-400">Sat-Sun: 9am - 9pm</p>
+                        <h3 className="text-3xl font-semibold mb-4">Hours</h3>
+                        <p className="text-2xl text-gray-400">Mon-Fri: 8am - 8pm</p>
+                        <p className="text-2xl text-gray-400">Sat-Sun: 9am - 9pm</p>
                     </div>
                     <div>
-                        <h3 className="text-2xl font-semibold mb-4">Our Menu</h3>
+                        <h3 className="text-3xl font-semibold mb-4">Our Menu</h3>
                         <a href="menu.pdf" className="inline-block border border-white px-5 py-3 rounded-full hover:bg-white hover:text-black transition">Download Menu</a>
                     </div>
 

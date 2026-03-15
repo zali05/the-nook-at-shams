@@ -29,8 +29,8 @@ export default function Hero() {
                   initial={{ opacity: 0, y: 40 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 1.2, delay: 0.5 }}
-                  className="mt-6 text-lg md:text-2xl text-gray-200 max-w-2xl">
-                    Isloo's coziest corner for cafe enthusiasts.
+                  className="mt-6 text-1xl md:text-3xl text-gray-200 max-w-2xl">
+                    Tucked into a quiet corner at the end of Shams, The Nook is a cozy retreat for coffee lovers and curious minds — a place where good coffee and good company meet.
                 </motion.p>
             </div>
 
